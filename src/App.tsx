@@ -47,7 +47,7 @@ const App: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-blue-900 via-black to-blue-900 text-white flex flex-col items-center p-6">
-            <h1 className="text-4xl font-bold mb-8 mt-4">Bisandi's — Playlist Generator</h1>
+            <h1 className="text-4xl font-bold mb-8 mt-4">Moodify😉🎧 — Playlist Generator</h1>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4 mb-10">
                 {moods.map((mood) => (
